@@ -4,7 +4,7 @@ A  Single page Webiste  with the following things
 3.When ID and password successfully entered then it should how the detials of the user 
 4.details of the user are the follwing :
  user photo ,college Id, Full Name,Date of Birth,Gender,Address,Phone Number ,College Mail ,Personal Mail,Father Name,Mother Name ,Father Mobile Number , Year ,Branch ,Class room ,Hostel Room,Clubs and  Organizations, Sports / Athletics ,Volunteer Work.
-5.There should be Edit to Button  if the user the edit button then the user can edit the above mentioned suerr details
+5.There should be Edit to Button  if the user the edit button then the user can edit the above mentioned student  details
 6.User changed details should relicate in the user database
 
 
